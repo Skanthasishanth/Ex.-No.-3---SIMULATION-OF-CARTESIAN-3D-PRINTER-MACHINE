@@ -57,6 +57,8 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
 
+## Output
+
 ![exp05](https://github.com/user-attachments/assets/0fc96786-462c-4f01-97b6-c55b9bf8fc7f)
 
 ### Name: KANTHA SISHANTH S
